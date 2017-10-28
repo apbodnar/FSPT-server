@@ -1,0 +1,3 @@
+[submodule "FSPT"]
+	path = FSPT
+	url = https://github.com/apbodnar/FSPT
