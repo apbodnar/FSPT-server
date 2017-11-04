@@ -1,7 +1,7 @@
 import json
 import math
 
-frames = 600
+frames = 1200
 
 def get_frame_config(frame_number):
     if frame_number > frames:
